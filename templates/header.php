@@ -1,5 +1,5 @@
 <?php
-require_once("herpers/url.php");
+require_once("helpers/url.php");
 ?>
 
 <link rel="stylesheet" href="<?=$BASE_URL ?>/css/style.css">
